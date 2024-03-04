@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Habibur Rahman</h1>
 <h3 align="center">Passionate Frontend Developer from Dhaka</h3>
-<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="developers"/> 
+<img width="100%" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="developers"/> 
 
 - 🌱 Currently learning **Next.js**
 - 👨‍💻 Explore my projects at [https://habibur18.vercel.app/](https://habibur18.vercel.app/)
