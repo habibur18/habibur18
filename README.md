@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/habibur18/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VTeD4qBPqlElKuWrDznffb9OTF_t9qiM/view](https://drive.google.com/file/d/1VTeD4qBPqlElKuWrDznffb9OTF_t9qiM/view)
+- 📄 View my latest CV: [https://drive.google.com/file/d/1VTeD4qBPqlElKuWrDznffb9OTF_t9qiM/view](https://drive.google.com/file/d/1VTeD4qBPqlElKuWrDznffb9OTF_t9qiM/view)
 
 - ⚡ Fun fact **I'm too much friendly!**
 
