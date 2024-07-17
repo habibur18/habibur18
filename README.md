@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Habibur Rahman</h1>
 <h3 align="center">Passionate Frontend Developer from Dhaka</h3>
 
-- 🌱 Currently learning **Next.js**
+- 💪 Working at Arbree LTD
 - 👨‍💻 Explore my projects at [https://habibur18.vercel.app/](https://habibur18.vercel.app/)
 - 📝 I write articles on [Medium](https://medium.com/@amarhabibur)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/habibur18/)
