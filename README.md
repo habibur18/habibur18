@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Habibur Rahman</h1>
-<h3 align="center">Passionate Frontend Developer from Dhaka</h3>
+<h3 align="center">Agentic Full-Stack Developer from Dhaka, Bangladesh</h3>
 
 - 💪 Working at Arbree LTD
 - 👨‍💻 Explore my projects at [https://habibur.paipixel.com/](https://habibur.paipixel.com/)
