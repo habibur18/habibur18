@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Frontend Developer from Dhaka</h3>
 
 - 💪 Working at Arbree LTD
-- 👨‍💻 Explore my projects at [https://habibur18.vercel.app/](https://habibur.paipixel.com/)
+- 👨‍💻 Explore my projects at [https://habibur.paipixel.com/](https://habibur.paipixel.com/)
 - 📝 I write articles on [Medium](https://medium.com/@amarhabibur)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/habibur18/)
 - 📄 View my latest CV: [Here](https://drive.google.com/file/d/1VTeD4qBPqlElKuWrDznffb9OTF_t9qiM/view)
